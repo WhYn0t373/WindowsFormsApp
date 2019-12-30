@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApp2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="WindowsFormsApp2_Fibonacci_Fibo" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://localhost:44352/Services/Fibo.asmx</Value>
+    </Setting>
+    <Setting Name="WindowsFormsApp2_localhost_XmlToJson" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://localhost:44352/Services/XmlToJson.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
